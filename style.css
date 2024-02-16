@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+        #countdownId {
+            text-align: center;
+        }
+
+        #clock {
+            text-decoration: none;
+            color: black;
+        }
+
+        #countdown {
+            font-size: 4vw;
+            font-family: 'Roboto';
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .text-under {
+            font-size: 1.2vw;
+            font-family: 'Roboto';
+            padding: 0px;
+            margin: 0px;
+        }
+
+        #dana {
+            margin-left: 2%;
+        }
+
+        #sati {
+            margin-left: 5.4%;
+        }
+
+        #minuta {
+            margin-left: 4%;
+        }
+
+        #sekundi {
+            margin-left: 2.5%;
+        }
